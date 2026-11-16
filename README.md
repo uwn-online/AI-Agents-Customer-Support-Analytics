@@ -60,7 +60,7 @@ Examines opportunities to improve independent AI resolution while maintaining cu
 
 The analysis connects AI resolution quality, channel performance, support cost composition, product-level costs and repeat-contact expenditure.
 
-![AI Optimisation and Costs](Assets/AI%2ooptimisation.png)
+![AI Optimisation and Costs](Assets/AI%20optimisation.png)
 
 ## Dataset
 
