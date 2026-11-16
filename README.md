@@ -4,6 +4,11 @@
 
 A Power BI analysis that examines how effectively AI-powered customer support resolves issues, why AI conversations require human intervention, and where businesses can improve automation, resolution quality, and cost efficiency without compromising customer satisfaction.
 
+## Dataset
+
+It contains 12,000 customer support tickets created between January 2025 and September 2026.
+
+
 ## Live Dashboard
 
 [View the Interactive Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiMDE5N2VkYmMtM2YxMC00N2JhLWI0OWUtYmE2Y2I0ZDdiOTQyIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
@@ -61,10 +66,6 @@ Examines opportunities to improve independent AI resolution while maintaining cu
 The analysis connects AI resolution quality, channel performance, support cost composition, product-level costs and repeat-contact expenditure.
 
 ![AI Optimisation and Costs](Assets/AI%20optimisation.png)
-
-## Dataset
-
-It contains 12,000 customer support tickets created between January 2025 and September 2026.
 
 
 ## Data Modelling
